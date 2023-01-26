@@ -1,0 +1,68 @@
+.container {
+  padding: 60px;
+  width: 1000px;
+}
+
+.main_img {
+  width: 100px;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0px;
+  line-height: 0.7;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px 10px;
+}
+
+p {
+  margin: 0px;
+}
+
+.sub-text {
+  color: rgb(114, 114, 114);
+}
+
+.link-temperature {
+  text-decoration: none;
+  color: rgb(114, 114, 114);
+  transition: all 200ms ease-in-out;
+}
+
+.link-temperature:hover {
+  text-decoration: underline;
+  color: orange;
+}
+
+.link-active {
+  color: orange;
+}
+
+.temp-btn {
+  font-weight: bold;
+}
+
+.img-graf {
+  width: 100%;
+  margin: 5px 0px 30px;
+  border-radius: 10px;
+}
+
+.img_kart {
+  width: 90px;
+}
+
+.w-kard {
+  padding: 5px;
+  width: 110px;
+  transition: all 150ms ease-in-out;
+}
+
+.w-kard:hover {
+  cursor: pointer;
+  background: rgba(233, 233, 235, 0.5);
+  border-radius: 10px;
+}
