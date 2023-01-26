@@ -52,13 +52,16 @@ p {
 }
 
 .img_kart {
-  width: 90px;
+  width: 80px;
 }
 
 .w-kard {
   padding: 5px;
-  width: 110px;
   transition: all 150ms ease-in-out;
+}
+
+.w-kard p {
+  width: 80px;
 }
 
 .w-kard:hover {
